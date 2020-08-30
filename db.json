@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Hard drive has virus",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Jim Bob Jenkins"
+    },
+    {
+      "id": 2,
+      "message": "Paid for winrar",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "T-Bone Jones"
+    },
+    {
+      "id": 3,
+      "message": "Workstation 007 needs martini",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Q-bert Moneypenny"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Jim Bob",
+      "lastName": "Jenkins"
+    },
+    {
+      "id": 2,
+      "firstName": "T-Bone",
+      "lastName": "Jones"
+    },
+    {
+      "id": 3,
+      "firstName": "Q-bert",
+      "lastName": "Moneypenny"
+    }
+  ]
+}
