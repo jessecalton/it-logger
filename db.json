@@ -2,24 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Hard drive has virus",
+      "message": "Changed network card in Server 009",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Jim Bob Jenkins"
+      "tech": "Coustin Greg",
+      "date": "2020-10-01T05:52:33.934Z"
     },
     {
       "id": 2,
-      "message": "Paid for winrar",
-      "attention": true,
-      "date": "03-02-2020",
-      "tech": "T-Bone Jones"
+      "message": "Get me a new plastic screen with a toothbrush",
+      "attention": false,
+      "tech": "Q-bert Moneypenny",
+      "date": "2020-10-01T04:25:06.605Z"
     },
     {
       "id": 3,
-      "message": "Workstation 007 needs martini",
+      "message": "Refilled coffee container",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Q-bert Moneypenny"
+      "tech": "Jim Bob Jenkins",
+      "date": "2020-10-01T04:24:32.875Z"
     }
   ],
   "techs": [
